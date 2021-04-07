@@ -1,3 +1,7 @@
 STEP 1:	 created by Alan_Moreno on 4/7/2021 at 14:05
 
+<<<<<<< HEAD
 STEP 4:  new file created by Alan on 4/7/2021 at 14:15
+=======
+STEP 3:  added by Alan on 4/7/2021 at 14:10
+>>>>>>> 3f48df62c34c95b7db830078a0de978249b74cbf
